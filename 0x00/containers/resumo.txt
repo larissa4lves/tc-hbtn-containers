@@ -42,3 +42,4 @@ ________________________________________________________________________________
 Quais são as principais ferramentas e tecnologias de contêiner?
 Docker e Kubernets. O Red Hat é uma plataforma Kubernets para empresas. As outras empresas de cloud como google, AWS, Azure também
 oferecem soluções. 
+Contêiners
